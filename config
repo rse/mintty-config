@@ -6,7 +6,7 @@
 Term=xterm-256color
 
 #   configure terminal size
-Columns=120
+Columns=140
 Rows=54
 
 #   configure scroll bar
