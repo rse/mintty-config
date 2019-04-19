@@ -1,0 +1,61 @@
+##
+##  {%AppData%,~/AppData/Roaming}/{mintty,wsltty}/config -- MinTTY/WSLTTY Configuration
+##
+
+#   configure terminal type
+Term=xterm-256color
+
+#   configure terminal size
+Columns=120
+Rows=54
+
+#   configure font
+Font=DejaVu Sans Mono
+FontHeight=11.0
+FontSmoothing=full
+
+#   use less-distracting visual bell only
+BellType=0
+BellFlash=yes
+
+#   configure copy & paste handling
+CopyOnSelect=yes
+CopyAsRTF=no
+CopyAsHTML=16777216
+MiddleClickAction=void
+RightClickAction=paste
+CtrlExchangeShift=no
+
+#   configure the cursor
+CursorColour=#336699
+CursorBlinks=no
+CursorType=block
+
+#   show bold with font glyphs and (bright) colors
+BoldAsFont=yes
+BoldAsColour=yes
+
+#   configure standard colors
+ForegroundColour=#000000
+BackgroundColour=#e0f0ff
+
+#   configure 8 primary/normal/dark colors
+Black=#000000
+Red=#aa7700
+Green=#668800
+Yellow=#bbbb00
+Blue=#336699
+Magenta=#7733cc
+Cyan=#009999
+White=#e0e0e0
+
+#   configure 8 secondary/bold/bright colors
+BoldBlack=#333333
+BoldRed=#cc9900
+BoldGreen=#99bb00
+BoldYellow=#cccc11
+BoldBlue=#5588bb
+BoldMagenta=#8844dd
+BoldCyan=#11aaaa
+BoldWhite=#f0f0f0
+
