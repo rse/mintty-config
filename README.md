@@ -5,7 +5,7 @@ mintty-config
 This is Ralf S. Engelschall's configuration for
 [MinTTY](https://mintty.github.io/)/[WSLTTY](https://github.com/mintty/wsltty),
 the excellent terminal emulator for Windows. It provides both a useful
-pre-configuration of MinTTY/WSLTTY features and the usual blue/brown theme
+pre-configuration of MinTTY/WSLTTY features and the usual bright blue &amp; brown theme
 of Ralf S. Engelschall. 
 
 Just copy the file [config](./config) to `%AppData%/mintty/config`
