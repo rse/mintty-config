@@ -9,6 +9,9 @@ Term=xterm-256color
 Columns=120
 Rows=54
 
+#   configure scroll bar
+Scollbar=none
+
 #   configure font
 Font=DejaVu Sans Mono
 FontHeight=11.0
