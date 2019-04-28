@@ -10,7 +10,7 @@ Columns=140
 Rows=54
 
 #   configure scroll bar
-Scollbar=none
+Scrollbar=none
 
 #   configure font
 Font=DejaVu Sans Mono
